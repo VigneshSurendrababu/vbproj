@@ -1,0 +1,13 @@
+C:\Users\mohand4\source\repos\TestProjectVB\TestProjectVB\bin\Debug\netcoreapp3.1\TestProjectVB.exe
+C:\Users\mohand4\source\repos\TestProjectVB\TestProjectVB\bin\Debug\netcoreapp3.1\TestProjectVB.deps.json
+C:\Users\mohand4\source\repos\TestProjectVB\TestProjectVB\bin\Debug\netcoreapp3.1\TestProjectVB.runtimeconfig.json
+C:\Users\mohand4\source\repos\TestProjectVB\TestProjectVB\bin\Debug\netcoreapp3.1\TestProjectVB.runtimeconfig.dev.json
+C:\Users\mohand4\source\repos\TestProjectVB\TestProjectVB\bin\Debug\netcoreapp3.1\TestProjectVB.dll
+C:\Users\mohand4\source\repos\TestProjectVB\TestProjectVB\bin\Debug\netcoreapp3.1\TestProjectVB.pdb
+C:\Users\mohand4\source\repos\TestProjectVB\TestProjectVB\obj\Debug\netcoreapp3.1\TestProjectVB.vbprojAssemblyReference.cache
+C:\Users\mohand4\source\repos\TestProjectVB\TestProjectVB\obj\Debug\netcoreapp3.1\TestProjectVB.AssemblyInfoInputs.cache
+C:\Users\mohand4\source\repos\TestProjectVB\TestProjectVB\obj\Debug\netcoreapp3.1\TestProjectVB.AssemblyInfo.vb
+C:\Users\mohand4\source\repos\TestProjectVB\TestProjectVB\obj\Debug\netcoreapp3.1\TestProjectVB.vbproj.CoreCompileInputs.cache
+C:\Users\mohand4\source\repos\TestProjectVB\TestProjectVB\obj\Debug\netcoreapp3.1\TestProjectVB.dll
+C:\Users\mohand4\source\repos\TestProjectVB\TestProjectVB\obj\Debug\netcoreapp3.1\TestProjectVB.pdb
+C:\Users\mohand4\source\repos\TestProjectVB\TestProjectVB\obj\Debug\netcoreapp3.1\TestProjectVB.genruntimeconfig.cache
