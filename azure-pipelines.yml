@@ -20,9 +20,9 @@ steps:
 - task: ArtifactoryToolsInstaller@1
   inputs:
     artifactoryService: 'vigneshs-saas'
-    cliInstallationRepo: 'nuget'
+    cliInstallationRepo: 'JFrog-CLI'
     installCustomVersion: true
-    cliVersion: '1.38.0'
+    cliVersion: '1.35.3'
     installExtractors: true
     extractorsInstallationRepo: 'jcenter'
 - task: ArtifactoryNuGet@2
