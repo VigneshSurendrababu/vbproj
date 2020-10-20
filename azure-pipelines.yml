@@ -17,6 +17,14 @@ steps:
     echo Add other tasks to build, test, and deploy your project.
     echo See https://aka.ms/yaml
   displayName: 'Run a multi-line script'
+- task: ArtifactoryToolsInstaller@1
+  inputs:
+    artifactoryService: 'vigneshs-saas'
+    cliInstallationRepo: 'nuget'
+    installCustomVersion: true
+    cliVersion: '1.35.3'
+    installExtractors: true
+    extractorsInstallationRepo: 'jcenter'
 - task: ArtifactoryNuGet@2
   inputs:
     command: 'restore'
